@@ -1,0 +1,19 @@
+target/
+*.class
+*.jar
+
+# Flink local state and logs
+flink-checkpoints/
+log/
+*.log
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
